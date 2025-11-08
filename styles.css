@@ -1,0 +1,11 @@
+.my-custom-div-for-diagram-one {
+    display: flex;
+    justify-content: center;
+    background-color: red; 
+}
+
+.char-stream {
+  background-color: blue;
+  width: 500px;
+  height: 500px;
+}
